@@ -18,7 +18,7 @@
 
 ```python
 class AlwinDavid:
-    role       = "Applied AI Engineer"
+    role       = "GenAI Engineer"
     location   = "Bengaluru, India 🇮🇳"
     experience = "~2 years in production AI"
     
@@ -115,7 +115,7 @@ Drone-mounted Pi 4 streams aerial frames to Flask backend; CNN model detects pad
 
 ---
 
-### 🏫 Pencil Maths — Tuition Platform
+### 🏫 Online Tution Management Platform
 > **React · Node.js · PostgreSQL · WhatsApp API**
 
 4-role tuition management platform (Admin, Operations, Teacher, Student) with auto-homework distribution, lesson tracking, and WhatsApp bot integration.
