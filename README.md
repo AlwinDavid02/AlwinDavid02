@@ -31,7 +31,6 @@ class AlwinDavid:
     ]
     
     currently_building = "Healthcare AI Platform @ Probeplus"
-    ielts_score        = "8.0 Overall Band 🎯"
 ```
 
 <br clear="right"/>
